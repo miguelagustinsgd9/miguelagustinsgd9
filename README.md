@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hola! Bienvenido :) 👋
 
-<!--
-**miguelagustinsgd9/miguelagustinsgd9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  Miguel Agustín | miguelagustinsgd9
 
-Here are some ideas to get you started:
+*Programo por el gusto de aprender y ayudar.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos Destacados:
+
+**[MtrxOS](https://github.com/miguelagustinsgd9/MtrxOS) | [Coming soon >:)](https://linktr.ee/miguelagustinsgd9)**
+
+## Redes sociales:
+
+* **[Linktree](https://linktr.ee/miguelagustinsgd9):** Site, Youtube, GitHub & GitLab
+
+## Lenguajes conocidos:
+
+* **⚙️ Low-level:** Rust, C/C++, Assembly
+* **🌐 Web:** HTML, CSS, JS, TS
+* **📱 Apps:** Java, Kotlin
+* **📜 Logic:** Python, Lua
+
+### Gracias por pasarte y tomarte el tiempo de ver mi informacion :)
