@@ -14,9 +14,9 @@
 
 ## Lenguajes conocidos:
 
-* **⚙️ Low-level:** Rust, C/C++, Assembly
-* **🌐 Web:** HTML, CSS
-* **📱 Apps:** Java, Kotlin
-* **📜 Logic:** Python, Lua
+* **1:** Rust, C/C++, Assembly, Go
+* **2:** HTML, CSS
+* **3:** Java, Kotlin
+* **4:** Python, Lua
 
 ### Gracias por pasarte y tomarte el tiempo de ver mi informacion :)
